@@ -1,4 +1,4 @@
-# f
+# free
 &#8226; 翻 墙 软 件 ：
 <a href="http://25.dns2.us/f/" target="_blank">网址一</a>
 　<a href="http://ck.otzo.com/ff/" target="_blank">网址二</a>
