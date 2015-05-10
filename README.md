@@ -1,12 +1,15 @@
  # free
-番 墙 软 件   
-<p>
-(C1_电脑)翻墙软件(下载)网址 ：<br />
-<a href="http://767.dtdns.net/f/" target="_blank">http://767.dtdns.net/f/</a><br />
-<a href="http://329.duckdns.org/f/" target="_blank">http://329.duckdns.org/f/</a><br />
+&#8226; 番 墙 软 件 ：
+<a href="http://25.dns2.us/f/" target="_blank">网址一</a>
+　<a href="http://ck.otzo.com/ff/" target="_blank">网址二</a>
+　<a href="http://20.120v.ac/f/" target="_blank">网址三</a>
+　<br />
+&#8226; (C1_电脑)翻墙软件(下载)网址 ：<br />
+<a href="http://25.dns2.us/f/" target="_blank">http://25.dns2.us/f/</a><br />
+<a href="http://ck.otzo.com/f/" target="_blank">http://ck.otzo.com/f/</a><br />
 <a href="http://20.120v.ac/f/" target="_blank">http://20.120v.ac/f/</a><br />
-(C2_手机)翻墙软件(下载)网址 ：<br />
-<a href="http://767.dtdns.net/ff/" target="_blank">http://767.dtdns.net/ff/</a><br />
-<a href="http://329.duckdns.org/ff/" target="_blank">http://329.duckdns.org/ff/</a><br />
+&#8226; (C2_手机)翻墙软件(下载)网址 ：<br />
+<a href="http://25.dns2.us/ff/" target="_blank">http://25.dns2.us/ff/</a><br />
+<a href="http://ck.otzo.com/ff/" target="_blank">http://ck.otzo.com/ff/</a><br />
 <a href="http://20.120v.ac/ff/" target="_blank">http://20.120v.ac/ff/ </a>
 </p>
