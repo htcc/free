@@ -1,4 +1,3 @@
-# free
 &#8226; 翻 墙 软 件 ：
 <a href="http://622.dtdns.net/f/" target="_blank">网址一</a>
 　<a href="http://65.wiki.gd/ff/" target="_blank">网址二</a>
