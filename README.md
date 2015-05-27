@@ -3,6 +3,8 @@
 　<a href="http://687.wha.la/ff/" target="_blank">网址二</a>
 　<a href="http://20.120v.ac/f/" target="_blank">网址三</a>
 　<br />
+QQ索取最新版翻墙软件： 请加QQ号2965556046<br />
+
 &#8226; (C1_电脑)翻 墙 软 件(下载)网址 ：<br />
 <a href="http://ck.otzo.com/f/" target="_blank">http://ck.otzo.com/f/</a><br />
 <a href="http://687.wha.la/f/" target="_blank">http://687.wha.la/f/</a><br />
