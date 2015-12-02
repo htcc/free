@@ -39,4 +39,4 @@
 <p>◎ </span>  • 每 日 新 闻：  
 <a href="http://56.otzo.com/day/index.html" target="_blank">网址一</a> 　 
 <a href="http://222.ftp.sht/day/index.html" target="_blank">网址二</a> 　 
-<a href="http://wi.irc.so/day/index.html" target="_blank">网址三</a></p>
+<a href="http://wi.irc.so/day/index.html" target="_blank">网址三</a></p>a
